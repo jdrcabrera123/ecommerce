@@ -1,0 +1,171 @@
+ [
+    {
+      "id": 2,
+      "img": "/img/Bass-01.png",
+      "precio": 15000,
+      "descripcion": "Bajo",
+      "clase": "Decorativo"
+    },
+    {
+      "id": 3,
+      "img": "/img/Bull-01.png",
+      "precio": 13000,
+      "descripcion": "Toro",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 4,
+      "img": "/img/Cat_Lamp-01.png",
+      "precio": 25000,
+      "descripcion": "Gato Luz",
+      "clase": "Lámparas"
+    },
+    {
+      "id": 5,
+      "img": "/img/Cat_Purple-01.png",
+      "precio": 13000,
+      "descripcion": "Gato",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 6,
+      "img": "/img/Cat_Sculpt_Mobile-01.png",
+      "precio": 30000,
+      "descripcion": "Gato 3D",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 7,
+      "img": "/img/Cat_Twinkling-01.png",
+      "precio": 30000,
+      "descripcion": "Gato 3D",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 8,
+      "img": "/img/Cock-01.png",
+      "precio": 13000,
+      "descripcion": "Gallo",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 9,
+      "img": "/img/Elephant_V2-01.png",
+      "precio": 13000,
+      "descripcion": "MiniElefante",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 10,
+      "img": "/img/Elephant-01.png",
+      "precio": 20000,
+      "descripcion": "Elefante",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 11,
+      "img": "/img/French_Poodle-01.png",
+      "precio": 35000,
+      "descripcion": "Poodle",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 12,
+      "img": "/img/German_Shepherd-01.png",
+      "precio": 25000,
+      "descripcion": "Pastor",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 13,
+      "img": "/img/Giraffe-01.png",
+      "precio": 25000,
+      "descripcion": "Jirafa",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 14,
+      "img": "/img/Guitar1-01.png",
+      "precio": 20000,
+      "descripcion": "Personalizada",
+      "clase": "Decorativo"
+    },
+    {
+      "id": 15,
+      "img": "/img/Guitar2-01.png",
+      "precio": 15000,
+      "descripcion": "Guitarra",
+      "clase": "Decorativo"
+    },
+    {
+      "id": 16,
+      "img": "/img/Karateka-01.png",
+      "precio": 13000,
+      "descripcion": "Karateka",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 17,
+      "img": "/img/Labrador-01.png",
+      "precio": 25000,
+      "descripcion": "Labrador",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 19,
+      "img": "/img/NameplateCircle_Dog-01.png",
+      "precio": 13000,
+      "descripcion": "Circular",
+      "clase": "Placas"
+    },
+    {
+      "id": 20,
+      "img": "/img/Octopus-01.png",
+      "precio": 13000,
+      "descripcion": "Pulpo",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 21,
+      "img": "/img/Samoyed-01.png",
+      "precio": 25000,
+      "descripcion": "Samoyedo",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 22,
+      "img": "/img/Seal-01.png",
+      "precio": 13000,
+      "descripcion": "Foca",
+      "clase": "Posacelular"
+    },
+    {
+      "id": 23,
+      "img": "/img/NameplateBone_Dog-01.png",
+      "precio": 7000,
+      "descripcion": "Hueso",
+      "clase": "Placas"
+    },
+    {
+      "id": 24,
+      "img": "/img/Nameplate_Dog-01.png",
+      "precio": 13000,
+      "descripcion": "Hueso",
+      "clase": "Placas"
+    },
+    {
+      "id": 25,
+      "img": "/img/Tipografia-01.png",
+      "precio": 5000,
+      "descripcion": "Tipografía",
+      "clase": "Decorativo"
+    },
+    {
+      "id": 26,
+      "img": "/img/T-Rex-01.png",
+      "precio": 13000,
+      "descripcion": "Karateka",
+      "clase": "Posacelular"
+    }
+  ]
+  
